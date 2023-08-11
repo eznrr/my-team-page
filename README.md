@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/eznrr/my-page-team">
+    <a href="https://github.com/eznrr/my-team-page">
       Solution
     </a>
     <span> | </span>
